@@ -27,7 +27,7 @@ The stakeholders would like to be able to answer the following key questions:
 ○ Is there a connection between age and family status in terms of ordering
   habits?
   
-○ What different classifications does the demographic information suggest?
+○ What different classifications does the demographic information suggest?.
   Age? Income? Certain types of goods? Family status?
   
 ○ What differences can you find in ordering habits of different customer
