@@ -75,6 +75,6 @@ Analysis Criteria
 Resources
 Program used: Juypter Notebook version 6.3.0
 
-Packages: pandas, numpy, os, matplotlib, scipy, seaborn, pickle
+Packages: pandas, numpy, os, matplotlib, scipy, seaborn, pickle.
 
 Data Set Source: https://www.instacart.com/datasets/grocery-shopping-2017
